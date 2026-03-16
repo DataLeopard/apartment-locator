@@ -1,0 +1,11 @@
+{
+  "name": "apartment-locator",
+  "template": "react-app",
+  "description": "Apartment locator tool for real estate agents — search, filter, and track apartment listings with commission calculations, lead management, and property comparison views",
+  "createdAt": "2026-03-16T18:00:00.000Z",
+  "language": "javascript",
+  "category": "web",
+  "status": "new",
+  "features": [],
+  "port": 5174
+}

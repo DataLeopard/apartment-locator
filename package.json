@@ -1,0 +1,20 @@
+{
+  "name": "apartment-locator",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Apartment locator tool for real estate agents — search, filter, and track apartment listings with commission calculations, lead management, and property comparison views",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.0",
+    "vite": "^6.0.0"
+  }
+}
